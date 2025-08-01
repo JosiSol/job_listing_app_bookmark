@@ -59,7 +59,26 @@ npm run dev
 
 Navigate to ``` (http://localhost:3000) ```
 
-📸 Preview
+## 🛠️ API Integration
+
+### Endpoints Used
+
+- **Base URL:** `https://akil-backend.onrender.com/`
+- **Authentication:** JWT Bearer token in Authorization header
+
+### Job Endpoints
+
+- `GET /opportunities/search` – Get all job listings
+- `GET /opportunities/:id` – Get specific job details
+
+### Bookmark Endpoints
+
+- `GET /bookmarks` – Get user's bookmarked jobs
+- `POST /bookmarks/:eventID` – Bookmark a job (empty body)
+- `DELETE /bookmarks/:eventID` – Remove bookmark 
+
+
+## 📸 Preview
 
 Home Page with Bookmark Functionality
 <img width="1440" height="775" alt="Screenshot 2025-08-01 at 10 41 01 at night" src="https://github.com/user-attachments/assets/c0f39e92-d26e-48b4-b5a9-59875bf4fc10" />
