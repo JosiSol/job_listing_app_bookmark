@@ -57,8 +57,25 @@ npm run dev
 
 ### Open your browser
 
-Navigate to [http://localhost:3000](http://localhost:3000)
+Navigate to ``` (http://localhost:3000) ```
 
-```
+📸 Preview
 
-```
+Home Page with Bookmark Functionality
+<img width="1440" height="775" alt="Screenshot 2025-08-01 at 10 41 01 at night" src="https://github.com/user-attachments/assets/c0f39e92-d26e-48b4-b5a9-59875bf4fc10" />
+
+Bookmarks Page
+<img width="1440" height="772" alt="Screenshot 2025-08-01 at 10 41 22 at night" src="https://github.com/user-attachments/assets/e19581d2-d9c7-4488-91a1-997ab08aea3e" />
+
+<img width="1440" height="772" alt="Screenshot 2025-08-01 at 10 41 58 at night" src="https://github.com/user-attachments/assets/a7ba5a6b-a8de-4b18-a78a-e775a6f92d81" />
+
+Jest Test
+
+
+Cypress (End to End) Tests
+<img width="1217" height="675" alt="Screenshot 2025-08-01 at 8 39 06 in the evening" src="https://github.com/user-attachments/assets/0eac7dea-1b9f-41ec-981a-72e2e283e4a0" />
+
+
+
+
+
